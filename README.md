@@ -4,6 +4,7 @@
 
  * [Repositories](#-repositories)
  * [Guides](#-guides)
+ * [Presentations](#-presentations)
  * [Guides](#-exercises)
  * [Tools](#-tools)
  
@@ -20,6 +21,10 @@
 * [Guided Fuzzing with Driller](https://blog.grimm-co.com/post/guided-fuzzing-with-driller/)
 * [Software testing: fuzzing and concolic execution with AFL, KLEE and ANGR](https://www.benhup.com/security-privacy/software-testing-fuzzing-concolic-execution-with-afl-klee-and-angr/)
 * [Fuzzing Windows Applications and Network Protocols](https://eprints.hsr.ch/214/1/FuzzingWindowsApplicationsandNetworkProtocols.pdf)
+
+## [↑](#table-of-contents) Presentations
+
+* [OffensiveCon19 - Ned Williamson - Modern Source Fuzzing](https://www.youtube.com/watch?v=xzG0pLM4Q64)
 
 ## [↑](#table-of-contents) Exercises
 
